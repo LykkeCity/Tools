@@ -1,6 +1,6 @@
 # Tools
 
-This has been removed for security reasons caused by inappropriate use of the generated result.
+The private key recovery tool has been removed due to security reasons. Please contact with our support if you are willing to download the tool. The tool is provided by request.
 
 1. The opensource tool for the private key recovery was not our good solution to provide withdrawals of the BTCash. Recovering the private key from the 12 words seed you will take a risk of compromising the private key.
 
